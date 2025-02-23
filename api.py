@@ -30,7 +30,7 @@ class RiotAPI:
         """
         Fetch the match history for a given PUUID.
         """
-        url = f"https://{self.region}.api.riotgames.com/tft/match/v1/matches/by-puuid/{puuid}/ids?start=0&count={100}"
+        url = f"https://{self.region}.api.riotgames.com/tft/match/v1/matches/by-puuid/{puuid}/ids?start=0&count={20}"
         response = requests.get(url, headers=self.headers)
         if response.status_code == 200:
             return response.json()
