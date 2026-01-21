@@ -283,3 +283,86 @@
 2025-01-17 00:22:23,978 - INFO - 127.0.0.1 - - [17/Jan/2025 00:22:23] "GET /recommendations HTTP/1.1" 200 -
 2025-01-17 00:22:50,315 - INFO -  * Detected change in 'c:\\Users\\jinha\\OneDrive\\Desktop\\TFT-Analyzer\\api.py', reloading
 2025-01-17 00:22:50,400 - INFO -  * Restarting with stat
+2025-01-17 00:22:51,228 - WARNING -  * Debugger is active!
+2025-01-17 00:22:51,228 - INFO -  * Debugger PIN: 125-193-705
+2025-01-17 00:22:54,677 - INFO - Database connection established.
+2025-01-17 00:22:54,677 - INFO - Database connection closed.
+2025-01-17 00:22:54,677 - INFO - 127.0.0.1 - - [17/Jan/2025 00:22:54] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 00:22:54,721 - INFO - Database connection established.
+2025-01-17 00:22:54,842 - INFO - Database connection closed.
+2025-01-17 00:22:54,859 - INFO - 127.0.0.1 - - [17/Jan/2025 00:22:54] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 00:23:47,375 - INFO - Database connection established.
+2025-01-17 00:23:47,380 - INFO - Database connection closed.
+2025-01-17 00:23:47,380 - INFO - 127.0.0.1 - - [17/Jan/2025 00:23:47] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 00:23:47,421 - INFO - Database connection established.
+2025-01-17 00:23:47,564 - INFO - Database connection closed.
+2025-01-17 00:23:47,564 - INFO - 127.0.0.1 - - [17/Jan/2025 00:23:47] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 05:15:44,130 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-17 05:15:44,130 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-17 05:15:44,130 - INFO -  * Restarting with stat
+2025-01-17 05:15:45,066 - WARNING -  * Debugger is active!
+2025-01-17 05:15:45,071 - INFO -  * Debugger PIN: 125-193-705
+2025-01-17 05:16:13,192 - INFO - 127.0.0.1 - - [17/Jan/2025 05:16:13] "[33mGET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1[0m" 404 -
+2025-01-17 05:16:35,199 - INFO - Database connection established.
+2025-01-17 05:16:35,222 - INFO - Database connection closed.
+2025-01-17 05:16:35,222 - INFO - 127.0.0.1 - - [17/Jan/2025 05:16:35] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 05:16:35,261 - INFO - Database connection established.
+2025-01-17 05:16:35,465 - INFO - Database connection closed.
+2025-01-17 05:16:35,465 - INFO - 127.0.0.1 - - [17/Jan/2025 05:16:35] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 05:18:09,738 - INFO - Database connection established.
+2025-01-17 05:18:09,754 - INFO - Database connection closed.
+2025-01-17 05:18:09,754 - INFO - 127.0.0.1 - - [17/Jan/2025 05:18:09] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 05:18:09,786 - INFO - Database connection established.
+2025-01-17 05:18:09,990 - INFO - Database connection closed.
+2025-01-17 05:18:09,990 - INFO - 127.0.0.1 - - [17/Jan/2025 05:18:09] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 05:19:05,679 - INFO - Database connection established.
+2025-01-17 05:19:05,710 - INFO - Database connection closed.
+2025-01-17 05:19:05,710 - INFO - 127.0.0.1 - - [17/Jan/2025 05:19:05] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 05:19:05,855 - INFO - Database connection established.
+2025-01-17 05:19:06,067 - INFO - Database connection closed.
+2025-01-17 05:19:06,067 - INFO - 127.0.0.1 - - [17/Jan/2025 05:19:06] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 05:20:09,994 - INFO -  * Detected change in 'c:\\Users\\jinha\\OneDrive\\Desktop\\TFT-Analyzer\\api.py', reloading
+2025-01-17 05:20:10,089 - INFO -  * Restarting with stat
+2025-01-17 05:20:11,095 - WARNING -  * Debugger is active!
+2025-01-17 05:20:11,097 - INFO -  * Debugger PIN: 125-193-705
+2025-01-17 05:20:26,974 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-17 05:20:26,974 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-17 05:20:26,980 - INFO -  * Restarting with stat
+2025-01-17 05:20:27,805 - WARNING -  * Debugger is active!
+2025-01-17 05:20:27,805 - INFO -  * Debugger PIN: 125-193-705
+2025-01-17 05:21:26,501 - INFO -  * Detected change in 'c:\\Users\\jinha\\OneDrive\\Desktop\\TFT-Analyzer\\api.py', reloading
+2025-01-17 05:21:26,587 - INFO -  * Restarting with stat
+2025-01-17 05:21:27,461 - WARNING -  * Debugger is active!
+2025-01-17 05:21:27,461 - INFO -  * Debugger PIN: 125-193-705
+2025-01-17 05:21:28,827 - INFO -  * Detected change in 'c:\\Users\\jinha\\OneDrive\\Desktop\\TFT-Analyzer\\api.py', reloading
+2025-01-17 05:21:28,895 - INFO -  * Restarting with stat
+2025-01-17 05:21:29,692 - WARNING -  * Debugger is active!
+2025-01-17 05:21:29,707 - INFO -  * Debugger PIN: 125-193-705
+2025-01-17 05:21:52,083 - INFO - 127.0.0.1 - - [17/Jan/2025 05:21:52] "[33mGET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1[0m" 404 -
+2025-01-17 05:21:53,604 - INFO - Database connection established.
+2025-01-17 05:21:53,618 - INFO - Database connection closed.
+2025-01-17 05:21:53,618 - INFO - 127.0.0.1 - - [17/Jan/2025 05:21:53] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 05:21:53,657 - INFO - Database connection established.
+2025-01-17 05:21:53,852 - INFO - Database connection closed.
+2025-01-17 05:21:53,852 - INFO - 127.0.0.1 - - [17/Jan/2025 05:21:53] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 05:25:08,526 - INFO - 127.0.0.1 - - [17/Jan/2025 05:25:08] "[33mGET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1[0m" 404 -
+2025-01-17 05:25:10,159 - INFO - Database connection established.
+2025-01-17 05:25:10,175 - INFO - Database connection closed.
+2025-01-17 05:25:10,175 - INFO - 127.0.0.1 - - [17/Jan/2025 05:25:10] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 05:25:10,222 - INFO - Database connection established.
+2025-01-17 05:25:10,630 - INFO - Database connection closed.
+2025-01-17 05:25:10,630 - INFO - 127.0.0.1 - - [17/Jan/2025 05:25:10] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 05:25:21,269 - INFO - Database connection established.
+2025-01-17 05:25:21,269 - INFO - Database connection closed.
+2025-01-17 05:25:21,269 - INFO - 127.0.0.1 - - [17/Jan/2025 05:25:21] "GET /api/analyze?summoner=VIT%20setsuko&tag=NA2 HTTP/1.1" 200 -
+2025-01-17 05:25:21,304 - INFO - Database connection established.
+2025-01-17 05:25:21,513 - INFO - Database connection closed.
+2025-01-17 05:25:21,513 - INFO - 127.0.0.1 - - [17/Jan/2025 05:25:21] "GET /recommendations HTTP/1.1" 200 -
+2025-01-17 12:58:05,259 - INFO - Database connection established.
+2025-01-17 12:58:05,285 - INFO - Database connection closed.
+2025-01-17 12:58:05,286 - INFO - 127.0.0.1 - - [17/Jan/2025 12:58:05] "GET /api/analyze?summoner=Shiyo&tag=NA1 HTTP/1.1" 200 -
+2025-01-17 12:58:05,321 - INFO - Database connection established.
+2025-01-17 12:58:05,699 - INFO - Database connection closed.
+2025-01-17 12:58:05,715 - INFO - 127.0.0.1 - - [17/Jan/2025 12:58:05] "GET /recommendations HTTP/1.1" 200 -
